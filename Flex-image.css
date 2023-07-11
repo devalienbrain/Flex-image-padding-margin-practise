@@ -1,0 +1,35 @@
+.container {
+  height: 70vh;
+  background-color: red;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  gap: 20px;
+}
+
+.box {
+  height: 350px;
+  width: 350px;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.left-box {
+  background: blue;
+}
+
+.center-box {
+  background: green;
+
+}
+
+.right-box {
+  background: khaki;
+}
+
+.image {
+  width: 300px;
+}
